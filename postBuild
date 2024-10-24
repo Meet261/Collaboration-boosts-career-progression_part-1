@@ -1,3 +1,5 @@
 #!/bin/bash
 Rscript -e "if (!requireNamespace('devtools', quietly = TRUE)) install.packages('devtools')"
 Rscript -e "devtools::install_github('massimoaria/bibliometrix')"
+echo "R -e \"devtools::install_github('hanswilly/pmwg')\"" > postBuild
+
