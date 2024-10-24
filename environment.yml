@@ -1,0 +1,29 @@
+name: collaboration_boosts
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.3
+  - r-tidyverse
+  - r-bibliometrix
+  - r-rscopus
+  - r-dplyr
+  - r-stringr
+  - r-readr
+  - r-ggplot2
+  - r-gridextra
+  - r-igraph
+  - r-asnipe
+  - r-sna
+  - r-lme4
+  - r-jtools
+  - r-reshape2
+  - r-data.table
+  - r-plyr
+  - r-doBy
+  - r-rowr
+  - r-BBmisc
+  - r-qpcR
+  - r-devtools
+  - r-irkernel
+  - r-rmarkdown
