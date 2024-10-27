@@ -22,3 +22,11 @@ dependencies:
   - r-lme4
   - r-knitr
   - r-rmarkdown
+  - r-data.table
+  - r-doBy
+  - r-rowr
+  - r-jtools
+  - r-bibliometrix
+  - r-rscopus
+  - r-egonet
+  
