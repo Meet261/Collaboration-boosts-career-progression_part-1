@@ -24,5 +24,4 @@ dependencies:
   - r-rmarkdown
   - r-data.table
   - r-doBy
-  - r-egonet
   
