@@ -1,4 +1,5 @@
 #!/bin/bash
+R -e "install.packages('https://cran.r-project.org/src/contrib/Archive/egonet/egonet_1.2.tar.gz', repos = NULL, type = 'source')"
 R -e "install.packages('bibliometrix', repos='http://cran.r-project.org')"
 R -e "install.packages('rscopus', repos='http://cran.r-project.org')"
 R -e "install.packages('jtools', repos='http://cran.r-project.org')"
